@@ -80,6 +80,7 @@ nav img{
     justify-content: center;
     color:rgb(216, 213, 213);
     font-family: graduate,sans-serif;
+    transition: 0.7s ease;
     display: none;
 }
   
@@ -116,6 +117,7 @@ nav img{
     position: relative;
     padding-top:70px;
     text-transform: uppercase;
+    transition: trnasform 0.7s ease;
 }
 .remained img{
     max-width: 120px;
